@@ -1,5 +1,3 @@
-
-
 Robust Console is a remake of [Console](https://www.byond.com/games/Exadv1/console) that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 
 This is the primary repo for Robust Console. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
@@ -7,7 +5,7 @@ This is the primary repo for Robust Console. To prevent people forking RobustToo
 If you want to host or create content for Robust Console, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
 
-
+## Join us in development.
 [Discord](https://discord.gg/ns2Aeu4 )
 
 
