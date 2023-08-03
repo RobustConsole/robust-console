@@ -6,9 +6,12 @@ This is the primary repo for Robust Console. To prevent people forking RobustToo
 
 If you want to host or create content for Robust Console, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
-# Reference Info from SS14 Links
+
 
 [Discord](https://discord.gg/ns2Aeu4 )
+
+
+# Reference Info from SS14 Links
 
 ## Documentation/Wiki
 
